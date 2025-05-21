@@ -1,0 +1,3 @@
+Alrededor de 1679 escribe una serie de trabajos que luego son denominados como "The Art of Discovery" que a la notación creada por [[Al-Khwarizmi]] agrega notación sistemática a la que llama <mark style="background-color: rgba(2, 214, 234, 0.31); color: #2ab7de;">Characteristica Universalis</mark> para afirmaciones/enunciados/proposiciones, y también agrega un algoritmo en especial que llama <mark style="background-color: rgba(2, 214, 234, 0.31); color: #2ab7de; ">Calculus Ratiocinator</mark> para comprobar deducciones.
+
+Establece lo que llama <mark style="background-color: rgba(2, 214, 234, 0.31); color: #2ab7de;">Automatic Theorem Proving</mark> que recibe una hipótesis y una tesis y retorna si es verdadero o falso. Luego se demostró que esto es imposible.

@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "cca7c8801e63cd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "1486e00d76a25480",
+        "type": "split",
+        "dimension": 66.74757281553399,
+        "children": [
+          {
+            "id": "ff53fa03183174be",
+            "type": "tabs",
+            "dimension": 83.84491114701132,
+            "children": [
+              {
+                "id": "ec1da5e5aaedc6b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Expresiones aritméticas y booleanas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Expresiones aritméticas y booleanas"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d08fc2b5b73b56ae",
+            "type": "tabs",
+            "dimension": 16.15508885298869,
+            "children": [
+              {
+                "id": "79a28e05a581645a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subrayadores.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Subrayadores"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "530459b24e7e224c",
+        "type": "tabs",
+        "dimension": 33.25242718446602,
+        "children": [
+          {
+            "id": "f3a6f122e30c00d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "520e5e4287f8259d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3d245ecd52358f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a49f4151b4e463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0824ca67c8735e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc2f29f87f311227",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c561bbde1761f11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1300ac3c78b8a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1327e972f1b94f7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subrayadores.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Subrayadores"
+            }
+          },
+          {
+            "id": "a66ea088c624fac5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subrayadores.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Subrayadores"
+            }
+          },
+          {
+            "id": "04544c93a88ec4f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc74613282dad527",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subrayadores.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Subrayadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec1da5e5aaedc6b7",
+  "lastOpenFiles": [
+    "Subrayadores.md",
+    "Expresiones aritméticas y booleanas.md",
+    "Tipos en lógica.md",
+    "Russell.md",
+    "Paradoja de Russell.md",
+    "Notaciones formales para definir sintaxis.md",
+    "Leibniz.md",
+    "Frege.md",
+    "Expresiones aritméticas.md",
+    "Hilbert.md",
+    "Church.md",
+    "Al-Khwarizmi.md",
+    "Imágenes/Pasted image 20250510160314.png",
+    "Imágenes/Pasted image 20250510160156.png",
+    "Imágenes/Pasted image 20250510160142.png",
+    "Imágenes/Pasted image 20250510155805.png",
+    "Imágenes/Pasted image 20250510155535.png",
+    "Imágenes/Pasted image 20250510155116.png",
+    "Imágenes/Pasted image 20250510154538.png",
+    "Imágenes/Pasted image 20250510153622.png",
+    "Imágenes/Pasted image 20250426191416.png",
+    "Imágenes/Pasted image 20250426194651.png",
+    "Imágenes",
+    "Subrayadores 1.md"
+  ]
+}
