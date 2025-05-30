@@ -19,12 +19,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Expresiones aritméticas y booleanas.md",
+                    "file": "Extensiones al sistema de asignación de tipos a términos (a la Curry).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Expresiones aritméticas y booleanas"
+                  "title": "Extensiones al sistema de asignación de tipos a términos (a la Curry)"
                 }
               }
             ]
@@ -218,27 +218,30 @@
   "active": "ec1da5e5aaedc6b7",
   "lastOpenFiles": [
     "Subrayadores.md",
+    "Extensiones al sistema de asignación de tipos a términos (a la Curry).md",
+    "Imágenes/Pasted image 20250530191510.png",
+    "Imágenes/Pasted image 20250530191446.png",
+    "Imágenes/Pasted image 20250530191434.png",
+    "Imágenes/Pasted image 20250530191353.png",
+    "Imágenes/Pasted image 20250530191308.png",
+    "Imágenes/Pasted image 20250530191148.png",
+    "Imágenes/Pasted image 20250530191013.png",
+    "Lógica y surgimiento del Cálculo Lambda.md",
+    "Imágenes/Pasted image 20250524192737.png",
+    "Imágenes/Pasted image 20250524193915.png",
+    "Cálculo lambda con tipos.md",
+    "Imágenes/Pasted image 20250524193827.png",
     "Expresiones aritméticas y booleanas.md",
+    "Expresiones aritméticas.md",
+    "Church.md",
     "Tipos en lógica.md",
     "Russell.md",
     "Paradoja de Russell.md",
     "Notaciones formales para definir sintaxis.md",
     "Leibniz.md",
     "Frege.md",
-    "Expresiones aritméticas.md",
     "Hilbert.md",
-    "Church.md",
     "Al-Khwarizmi.md",
-    "Imágenes/Pasted image 20250510160314.png",
-    "Imágenes/Pasted image 20250510160156.png",
-    "Imágenes/Pasted image 20250510160142.png",
-    "Imágenes/Pasted image 20250510155805.png",
-    "Imágenes/Pasted image 20250510155535.png",
-    "Imágenes/Pasted image 20250510155116.png",
-    "Imágenes/Pasted image 20250510154538.png",
-    "Imágenes/Pasted image 20250510153622.png",
-    "Imágenes/Pasted image 20250426191416.png",
-    "Imágenes/Pasted image 20250426194651.png",
     "Imágenes",
     "Subrayadores 1.md"
   ]
